@@ -1,0 +1,28 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.bck-img{
+    background-image: url(imagens/Green-leaves-after-rain-water-drops_3840x2160.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bck-txt{
+    background-color: rgb(255, 255, 255);
+    padding: 2em;
+    border-radius: 2em;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;  
+}
+
+p{
+    color: black;
+    font-size: 1.25em;
+
+}
+
+
+
