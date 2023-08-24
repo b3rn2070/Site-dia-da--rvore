@@ -1,5 +1,3 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
-
 .bck-img{
     background-image: url(imagens/Green-leaves-after-rain-water-drops_3840x2160.jpg);
     min-height: 500px;
@@ -21,7 +19,10 @@
 p{
     color: black;
     font-size: 1.25em;
+}
 
+.my-carousel{
+    width: 65%;
 }
 
 
