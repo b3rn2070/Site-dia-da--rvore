@@ -26,10 +26,17 @@ p{
     width: 65%;
 }
 
-#sobre{
+#bck-sobre{
     margin-right: 10%;
     margin-left: 10%;
+    min-width: 50%;
+    min-height: 50%;
 
+}
+
+#sobre{
+    width: 30%;
+    height: 30%;
 }
 
 
