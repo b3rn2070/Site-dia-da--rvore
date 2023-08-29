@@ -59,4 +59,32 @@ figcaption{
     font-style: italic;
 }
 
+.item_container_bottom{
+    background-color: #328737;
+    width: 100%;
+    height: 5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    bottom: 0;
+    margin-top: 3em;
+    
+}
+
+h5{
+    color:#ffff;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+#footer-sobre{
+    position: fixed;
+    bottom: 0%;
+}
+
+#ref{
+    text-align: justify;
+}
 
