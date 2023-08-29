@@ -31,12 +31,31 @@ p{
     margin-left: 10%;
     min-width: 50%;
     min-height: 50%;
+    
 
 }
 
 #sobre{
     width: 30%;
     height: 30%;
+}
+
+p{
+    text-indent: 30px;
+}
+
+.leg{
+    margin-top: 5px;
+}
+
+h6{
+    font-size: 15px;
+}
+
+figcaption{
+    margin-top: 1px;
+    color: #757575d6;
+    font-style: italic;
 }
 
 
